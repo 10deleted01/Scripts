@@ -1,6 +1,6 @@
 ---
-title: "Post example"
-excerpt: "Discover more about this site template."
+title: "Fevber Hub"
+excerpt: "this is a tsbg  script its discontinuedfor a biggerproject."
 header:
   teaser: "/assets/images/iss-crossing-the-moon.webp"
 categories:
