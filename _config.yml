@@ -3,33 +3,33 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Site Settings
-title: "Site Template"
-subtitle: "Awesome Site Template"
-name: "Your Name"
-description: "Your website description!"
+title: "Fevber"
+subtitle: "thank you for visiting"
+name: "Fevber"
+description: "There's no ads! enjoy ill post my scripts here"
 locale: "en-US"
 breadcrumbs: true
 search: true
 
 # Site Author
 author:
-  name   : "Your Name"
+  name   : "Fevber"
   bio: "Your Bio"
-  avatar : "https://avatars.githubusercontent.com/u/9919?s=110&v=4"
+  avatar : "https://avatars.githubusercontent.com/u/192663066?s=400&u=fcd7be39a81a9cdecd657e09e3f2d80be48f5551&v=4"
   location: Localhost, GitHub
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/"
+    - label: "Discord"
+      icon: "fab fa-fw fa-Discord"
+      url: "https://discord.gg/RwEkxZv7uN"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/10deleted01"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/"
+      url: "https://www.youtube.com/@Fevber-hub"
 
 # Social Sharing
-og_image: "https://avatars.githubusercontent.com/u/9919?s=110&v=4"
+og_image: "https://avatars.githubusercontent.com/u/192663066?s=400&u=fcd7be39a81a9cdecd657e09e3f2d80be48f5551&v=4"
 
 # Outputting
 permalink: /:categories/:title/
