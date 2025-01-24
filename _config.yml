@@ -77,6 +77,15 @@ defaults:
         actions:
           - label: "❤️ Become a Sponsor"
             url: "https://github.com/sponsors/"
+            - label: "❤️ Become a Sponso"
+            url: "https://github.com/sponsors/"
+            - label: "❤️ Become a Sonsor"
+            url: "https://github.com/sponsors/"
+            - label: "❤️ Beome a Sponsor"
+            url: "https://github.com/sponsors/"
+
+
+
 
 category_archive:
   type: liquid
