@@ -7,22 +7,8 @@ categories:
   - Blog
 ---
 
-![ISS crossing the moon]({{ site.baseurl }}/assets/images/iss-crossing-the-moon.webp)
-
-Template built on [Jekyll](https://jekyllrb.com) & [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
-
-[BTN-Primary](#){: .btn .btn--primary } [BTN-Success](#){: .btn .btn--success} [BTN-Danger](#){: .btn .btn--danger}
-
-Watch out! This paragraph of text has been emphasized with the `{: .notice--warning}` class.
-{: .notice--warning}
-
-Watch out! This paragraph of text has been emphasized with the `{: .notice--success}` class.
+loadstring(game:HttpGet("https://rawscripts.net/raw/KJ-The-Strongest-Battlegrounds-Fevber-hub-26230"))() `{: .notice--success}` key is : FEVBER_OPPS_ARE_DOWN9001838.
 {: .notice--success}
-
-Watch out! This paragraph of text has been emphasized with the `{: .notice--danger}` class.
-{: .notice--danger}
-
-For detailed instructions check [Minimal Mistakes Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 
 ## Newsletter example
 
