@@ -7,7 +7,10 @@ categories:
   - script
 ---
 
-loadstring(game:HttpGet("https://rawscripts.net/raw/KJ-The-Strongest-Battlegrounds-Fevber-hub-26230"))() `{: .notice--success}` key is : FEVBER_OPPS_ARE_DOWN9001838.
+loadstring(game:HttpGet("https://rawscripts.net/raw/KJ-The-Strongest-Battlegrounds-Fevber-hub-26230"))()
+{: .notice--success}
+
+Key:FEVBER_OPPS_ARE_DOWN9001838
 {: .notice--success}
 
 ## Newsletter example
