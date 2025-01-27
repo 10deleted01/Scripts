@@ -1,29 +1,18 @@
 ---
 layout: home
 permalink: /
-title: "Something Awesome!"
+title: "Websites!"
 ---
 
-## GitHub Page Template
+## Version 
 
-A simple, clean, and responsive theme for your website or blog.
+Version is 2.8 ima up Date it to 2.9
 
-GitHub: <https://github.com/monsieurborges/site-template>
 
-Watch out! This paragraph of text has been emphasized with the `{: .notice--success}` class.
+go to posts aka unblocked website`{: .notice--success}` GO.
 {: .notice--success}
 
-## Hello World CPP
+## Joke of the month
+what u call a autistic kid with a 🔫
 
-```cpp
-int main(void) {
-    printf("Hello World");
-}
-```
-
-## Hello World Bash Script
-
-```bash
-#!/bin/bash
-echo "Hello World"
-```
+special forces
